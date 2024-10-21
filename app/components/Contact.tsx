@@ -1,7 +1,6 @@
 import { ContactCard } from "@/components/ui/ContactCard"
 import Section from "./Section"
 import Me from "./assets/images/mick.jpg"
-import LinkedinIcon from './icons/LinkedinIcon'
 import { Code } from "@/components/ui/Code"
 
 
