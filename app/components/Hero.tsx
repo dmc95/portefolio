@@ -1,7 +1,7 @@
 import React, { ComponentPropsWithoutRef } from 'react'
 import Section from './Section'
 import Image from 'next/image';
-import Photo from './assets/images/mick.jpg'
+import Photo from './assets/images/me.jpg'
 import { cn } from '@/lib/utils';
 import { Code } from '@/components/ui/Code';
 

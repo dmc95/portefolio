@@ -1,6 +1,6 @@
 import { ContactCard } from "@/components/ui/ContactCard"
 import Section from "./Section"
-import Me from "./assets/images/mick.jpg"
+import Me from "./assets/images/me.jpg"
 import { Code } from "@/components/ui/Code"
 
 
