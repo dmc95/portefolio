@@ -1,7 +1,6 @@
 import React from 'react'
 import { Card } from './card'
 import Link from 'next/link'
-import { ArrowUpRight } from 'lucide-react'
 
 
 export const ContactCard = (props: {

@@ -1,9 +1,8 @@
 import React from 'react'
 import Section from './Section'
 import { Card } from '@/components/ui/card'
-import { CircleDollarSign, Database, LucideIcon, Music, Pizza } from "lucide-react"
+import { CircleDollarSign, Database, Music, Pizza } from "lucide-react"
 import Link from 'next/link'
-import { url } from 'inspector/promises'
 import Image from 'next/image';
 import { StaticImageData } from 'next/image'
 import { SideProjectProps, SideProject } from './SideProject';
@@ -36,6 +35,7 @@ export const Status = () => {
                     <div className='flex flex-col gap-4'>
                         {WORKS.map((work, index) => (
                             <Work
+                            key={index}
                                 {...work} />
                         ))}
                     </div>

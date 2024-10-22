@@ -22,7 +22,7 @@ export const Skills = () => {
                     }}
                     />
                     <h3 className="text-2xl font-semibold tracking-tight">React</h3>
-                    <p className="text-sm text-muted-foreground">Mon framework principal est React. J'utilise également Next.Js comme framework backend et frontend</p>
+                    <p className="text-sm text-muted-foreground">Mon framework principal est React.</p>
                     </div>
                     <div className="flex flex-col gap-2">
                     <SparkLogo size={42} 
@@ -32,7 +32,7 @@ export const Skills = () => {
                     }}
                     />
                     <h3 className="text-2xl font-semibold tracking-tight">PySpark</h3>
-                    <p className="text-sm text-muted-foreground">Mon framework web est React. J'utilise également Next.Js & Tailwind</p>
+                    <p className="text-sm text-muted-foreground">Mon framework web est React.</p>
                     </div>
                     <div className="flex flex-col gap-2">
                     <DatabricksLogo size={42} 
@@ -42,7 +42,7 @@ export const Skills = () => {
                     }}
                     />
                     <h3 className="text-2xl font-semibold tracking-tight">Databricks</h3>
-                    <p className="text-sm text-muted-foreground">Mon framework principal est React. J'utilise également Next.Js comme framework backend et frontend</p>
+                    <p className="text-sm text-muted-foreground">Mon framework principal est React.</p>
                     </div>
                 </div>
             </div>
