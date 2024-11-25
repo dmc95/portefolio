@@ -62,7 +62,7 @@ const SIDE_PROJECTS: SideProjectProps[] = [
         Logo: CircleDollarSign,
         title: "GD Investment",
         description: "Une plateforme de Bourse pour le suivi d'ETF",
-        url: "/"
+        url: "https://gdinvestment.netlify.app"
     },
     {
         Logo: Database,

@@ -16,13 +16,13 @@ const Header = () => {
            <div className='flex-1'/>
            <ul className='flex items-center gap-2'>
             <Link 
-            href=""
-            className={cn(buttonVariants({variant:'outline'}), 'size-6 p-0')} > 
+            href="https://www.linkedin.com/in/micka%C3%ABl-dolphin-dev/"
+            className={cn(buttonVariants({variant:'outline'}), 'size-6 p-0')} target='_blank'> 
                 <LinkedinIcon size={16} className='text-foreground'/>
             </Link>
             <Link 
-            href=""
-            className={cn(buttonVariants({variant:'outline'}), 'size-6 p-0')} > 
+            href="https://github.com/dmc95"
+            className={cn(buttonVariants({variant:'outline'}), 'size-6 p-0')} target='_blank'> 
                 <GithubIcon size={16} className='text-foreground'/>
             </Link>
            </ul>
